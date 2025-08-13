@@ -11,7 +11,7 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - View Trains Schedule
 - Search Trains
 - Seat Availability
-- Train Timings
+- Train Timings.
 - Fare Enquiry
 - Trains Between Stations
 - Booking seats online.
